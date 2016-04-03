@@ -1,0 +1,27 @@
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.pdb
+D:\SSD\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe.config
+D:\SSD\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.exe
+D:\SSD\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.pdb
+D:\SSD\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe
+D:\SSD\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.pdb
+D:\SSD\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Documents\Homework\ssd\projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe.config
+C:\Users\Aaron\Documents\Homework\ssd\projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.exe
+C:\Users\Aaron\Documents\Homework\ssd\projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.pdb
+C:\Users\Aaron\Documents\Homework\ssd\projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe
+C:\Users\Aaron\Documents\Homework\ssd\projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.pdb
+C:\Users\Aaron\Documents\Homework\ssd\projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.csprojResolveAssemblyReference.cache
+F:\SSD\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe.config
+F:\SSD\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.exe
+F:\SSD\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.pdb
+F:\SSD\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe
+F:\SSD\Projects\Customer Billing\Customer Billing\bin\Debug\Customer Billing.pdb
+F:\SSD\Projects\Customer Billing\Customer Billing\obj\Debug\Customer Billing.csprojResolveAssemblyReference.cache
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Customer Billing\Customer Billing\bin\Debug\Customer Billing.exe.config
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Customer Billing\Customer Billing\obj\Debug\Customer Billing.exe
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Customer Billing\Customer Billing\obj\Debug\Customer Billing.pdb
